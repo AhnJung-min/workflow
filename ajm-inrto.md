@@ -4,4 +4,4 @@
 # Email : dkswjdals4027@gmail.com
 # MBTI : INTP
 # 좋아하는 음식 : 피자
-# 취미 : 게임, 음악듣기
+# 취미 : 게임, 음악듣기1
